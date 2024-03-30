@@ -5,5 +5,3 @@ int main(){
     cout<<"name "<<endl;
 }
 
-
-#include<iostream>
